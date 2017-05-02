@@ -1,2 +1,0 @@
-# studieruimte
-Project Stuka studieruimte
